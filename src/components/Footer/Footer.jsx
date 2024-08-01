@@ -11,7 +11,13 @@ function Footer() {
         <div>
           <p className="text-sm font-semibold">
             &copy; 2024{" "}
-           <span className="text-textHover">Nishant Chauhan</span>
+           <Link
+              to="https://nishblogweb.netlify.app/"
+              target="_blank"
+              className="text-primary"
+            >
+              Nishant Chauhan
+            </Link>
           </p>
         </div>
       </div>
