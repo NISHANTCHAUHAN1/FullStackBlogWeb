@@ -12,7 +12,7 @@ function Footer() {
           <p className="text-sm font-semibold">
             &copy; 2024{" "}
            <Link
-              to="https://portfolioo-nishant.vercel.app/"
+              to="https://nish14.vercel.app/"
               target="_blank"
               className="text-primary"
             >
